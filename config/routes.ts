@@ -36,6 +36,18 @@
 		component: './RandomUser',
 		icon: 'ArrowsAltOutlined',
 	},
+	{
+	path: '/doan-so',
+	name: 'DoanSo',
+	component: './DoanSo',
+	icon: 'TrophyOutlined',
+},
+{
+	path: '/todo-list',
+	name: 'TodoList',
+	component: './ToDoList',
+	icon: 'CheckSquareOutlined',
+},
 
 	// DANH MUC HE THONG
 	// {
