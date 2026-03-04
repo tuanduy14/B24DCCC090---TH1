@@ -48,6 +48,18 @@
 	component: './ToDoList',
 	icon: 'CheckSquareOutlined',
 },
+{
+	path: '/oan-tu-ti',
+	name: 'OanTuTi',
+	component: './OanTuTi',
+	icon: 'TrophyOutlined',
+},
+{
+	path: '/quan-ly-de-thi',
+	name: 'QuanLyDeThi',
+	component: './QuanLyDeThi',
+	icon: 'FileTextOutlined',
+},
 
 	// DANH MUC HE THONG
 	// {
